@@ -1,7 +1,7 @@
 # Zoro
 
 基于 [redux](https://github.com/reactjs/redux)、[async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)的轻量级前端框架。
-
+### 类似于dva底层开发
 ---
 
 ### 如何安装
@@ -185,5 +185,5 @@ export default {
     },
   },
 }
-### 类似于dva底层开发
+
 ```
